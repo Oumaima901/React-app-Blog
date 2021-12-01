@@ -24,6 +24,7 @@ export default function TopBar() {
                 src="./assets/img/profile-pic.jpg"
                 alt=""/>
             <i className="searchIcon fas fa-search"></i>
+           
             </div>
         </div>
     )
